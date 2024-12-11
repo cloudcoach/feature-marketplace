@@ -138,3 +138,5 @@ dist
 
 # Allow dist folders under content/*/
 !content/*/dist/
+
+.DS_Store
