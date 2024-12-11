@@ -18,3 +18,5 @@ jobs:
 
       - name: Perform Marketplace Release
         uses: cloudcoach-actions/marketplace-release@v1
+        env:
+          GITHUB_WORKSPACE: "${{ github.workspace }}"
