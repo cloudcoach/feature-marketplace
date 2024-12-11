@@ -12,6 +12,8 @@ jobs:
   build-release:
     runs-on: ubuntu-latest
     name: Build Release
+    permissions:
+      contents: write
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v3
