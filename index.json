@@ -7,9 +7,6 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "version": "1.0.0",
       "files": [
-        "classes",
-        "info.json",
-        "package.xml",
         "classes/Feature1.cls"
       ]
     },
@@ -20,9 +17,6 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "version": "1.0.0",
       "files": [
-        "info.json",
-        "package.xml",
-        "triggers",
         "triggers/AccountPostConfiguration.trigger"
       ]
     },
@@ -33,9 +27,6 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "version": "1.0.0",
       "files": [
-        "classes",
-        "info.json",
-        "package.xml",
         "classes/Feature3.cls"
       ]
     }
