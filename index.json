@@ -8,7 +8,9 @@
       "version": "1.0.0",
       "files": [
         "classes/Feature1.cls"
-      ]
+      ],
+      "installZipFilePath": "https://api.github.com/repos/cloudcoach/feature-marketplace/contents/content/feature1/dist/feature1-install.zip",
+      "uninstallZipFilePath": "https://api.github.com/repos/cloudcoach/feature-marketplace/contents/content/feature1/dist/feature1-uninstall.zip"
     },
     {
       "id": "e7b8a9d4-3c5b-4d2b-8f8b-2f8b8f8b8f8b",
@@ -18,7 +20,9 @@
       "version": "1.0.0",
       "files": [
         "triggers/AccountPostConfiguration.trigger"
-      ]
+      ],
+      "installZipFilePath": "https://api.github.com/repos/cloudcoach/feature-marketplace/contents/content/feature2/dist/feature2-install.zip",
+      "uninstallZipFilePath": "https://api.github.com/repos/cloudcoach/feature-marketplace/contents/content/feature2/dist/feature2-uninstall.zip"
     },
     {
       "id": "3f2504e0-4f89-11d3-9a0c-0305e82c3301",
@@ -28,7 +32,9 @@
       "version": "1.0.0",
       "files": [
         "classes/Feature3.cls"
-      ]
+      ],
+      "installZipFilePath": "https://api.github.com/repos/cloudcoach/feature-marketplace/contents/content/feature3/dist/feature3-install.zip",
+      "uninstallZipFilePath": "https://api.github.com/repos/cloudcoach/feature-marketplace/contents/content/feature3/dist/feature3-uninstall.zip"
     }
   ]
 }
