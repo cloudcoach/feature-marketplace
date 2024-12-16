@@ -18,7 +18,16 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
 
+      - name: Get latest tag and calculate next version
+        id: tag_version
+        uses: mathieudutour/github-tag-action@v6.2
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          default_bump: patch
+
       - name: Perform Marketplace Release
         uses: cloudcoach-actions/marketplace-release@v1
         env:
           GITHUB_WORKSPACE: "${{ github.workspace }}"
+        with:
+          release-version: ${{ steps.tag_version.outputs.new_tag }}
