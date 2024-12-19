@@ -7,7 +7,8 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "version": "1.0.0",
       "files": [
-        "classes/Feature1.cls"
+        "classes/Feature1.cls",
+        "classes/Feature1.cls-meta.xml"
       ],
       "installZipFilePath": "https://api.github.com/repos/cloudcoach/feature-marketplace/contents/content/feature1/dist/feature1-install.zip",
       "uninstallZipFilePath": "https://api.github.com/repos/cloudcoach/feature-marketplace/contents/content/feature1/dist/feature1-uninstall.zip"
@@ -19,7 +20,8 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "version": "1.0.0",
       "files": [
-        "triggers/AccountPostConfiguration.trigger"
+        "triggers/AccountPostConfiguration.trigger",
+        "triggers/AccountPostConfiguration.trigger-meta.xml"
       ],
       "installZipFilePath": "https://api.github.com/repos/cloudcoach/feature-marketplace/contents/content/feature2/dist/feature2-install.zip",
       "uninstallZipFilePath": "https://api.github.com/repos/cloudcoach/feature-marketplace/contents/content/feature2/dist/feature2-uninstall.zip"
@@ -31,7 +33,8 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "version": "1.0.0",
       "files": [
-        "classes/Feature3.cls"
+        "classes/Feature3.cls",
+        "classes/Feature3.cls-meta.xml"
       ],
       "installZipFilePath": "https://api.github.com/repos/cloudcoach/feature-marketplace/contents/content/feature3/dist/feature3-install.zip",
       "uninstallZipFilePath": "https://api.github.com/repos/cloudcoach/feature-marketplace/contents/content/feature3/dist/feature3-uninstall.zip"
