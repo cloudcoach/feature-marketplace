@@ -25,9 +25,16 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           default_bump: patch
 
+      - name: Install Salesforce CLI
+        run: npm install -g @salesforce/cli
+
+      - name: Verify Salesforce CLI installation
+        run: sf --version
+
       - name: Perform Marketplace Release
         uses: cloudcoach-actions/marketplace-release@v1
         env:
           GITHUB_WORKSPACE: "${{ github.workspace }}"
+          SF_DISABLE_TELEMETRY: true
         with:
           release-version: ${{ steps.tag_version.outputs.new_tag }}
