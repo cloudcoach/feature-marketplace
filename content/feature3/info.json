@@ -1,7 +1,7 @@
 {
+	"$schema": "../../info-schema.json",
 	"name": "feature3",
 	"label": "Feature 3",
 	"description": "This feature has a dependency on feature2.",
-	"iconUrl": "",
 	"dependencies": ["feature2"]
 }
