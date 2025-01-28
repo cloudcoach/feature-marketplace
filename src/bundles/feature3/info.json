@@ -1,0 +1,7 @@
+{
+	"$schema": "../../../schemas/info-schema.json",
+	"name": "Feature 3",
+	"description": "Access your projects anytime, anywhere with seamless cloud synchronization. Stay productive on desktop, tablet, or mobile.",
+	"dependencies": ["feature2"],
+	"availability": "public"
+}

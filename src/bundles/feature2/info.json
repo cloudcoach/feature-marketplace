@@ -1,0 +1,6 @@
+{
+	"$schema": "../../../schemas/info-schema.json",
+	"name": "Feature 2",
+	"description": "Connect with apps like Slack, Google Drive, and Zoom to streamline your workflow. Keep all your tools working together effortlessly.",
+	"availability": "public"
+}

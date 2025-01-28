@@ -1,0 +1,6 @@
+{
+	"$schema": "../../../schemas/info-schema.json",
+	"name": "Parent Feature",
+	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+	"availability": "dependency"
+}

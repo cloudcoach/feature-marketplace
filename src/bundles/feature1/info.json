@@ -1,0 +1,7 @@
+{
+	"$schema": "../../../schemas/info-schema.json",
+	"name": "Feature 1",
+	"description": "Plan projects with interactive Gantt charts that adjust in real-time. Gain clarity on timelines, dependencies, and milestones.",
+	"packageDependencies": ["project_cloud"],
+	"availability": "public"
+}
