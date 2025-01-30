@@ -3,6 +3,6 @@
 	"namespace": "acme_corp",
 	"packageId": "04t2v000007SnEfAAK",
 	"versionId": "....",
-	"description": "xyz",
+	"description": "Take your Salesforce automation to the next level with the Advanced Workflow Automation Package. This managed package enhances your org with prebuilt Flow templates, custom Apex triggers, and dynamic approval processes, enabling seamless task automation without the need for custom development. Easily install and configure through the Feature Marketplace, ensuring a smooth integration into your existing workflows.",
 	"version": "2.100"
 }
