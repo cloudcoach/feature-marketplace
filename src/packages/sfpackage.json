@@ -1,0 +1,34 @@
+[
+	{
+		"name": "CloudCoach Enterprise",
+		"namespace": "project_cloud",
+		"packageId": "04t2K000000cfI6QAI",
+		"versionId": "....",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pellentesque nunc nec elementum laoreet. Donec ac faucibus ligula, in convallis tortor.",
+		"version": "21.2"
+	},
+	{
+		"name": "CloudCoach Enterprise - Profitability & Utilization",
+		"namespace": "project_cloud",
+		"packageId": "04t4R0000019RqvQAE",
+		"versionId": "....",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pellentesque nunc nec elementum laoreet. Donec ac faucibus ligula, in convallis tortor.",
+		"version": "1.277"
+	},
+	{
+		"name": "CloudCoach Enterprise - PPM",
+		"namespace": "project_cloud",
+		"packageId": "04t2v000007SnEfAAK",
+		"versionId": "....",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pellentesque nunc nec elementum laoreet. Donec ac faucibus ligula, in convallis tortor.",
+		"version": "2.100"
+	},
+	{
+		"name": "CloudCoach Enterprise - Salesforce Connector",
+		"namespace": "project_cloud",
+		"packageId": "04t4w000000YjJyAAK",
+		"versionId": "....",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pellentesque nunc nec elementum laoreet. Donec ac faucibus ligula, in convallis tortor.",
+		"version": "3.114"
+	}
+]
